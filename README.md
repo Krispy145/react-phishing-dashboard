@@ -6,7 +6,7 @@ React + TS + Vite: auth, protected routes, samples table, predict form (later).
 
 ## 📈 Status
 
-- **Status:** active (Active)
+- **Status:** scaffolded (Scaffolded)
 - **Focus:** React + TS + Vite: auth, protected routes, samples table, predict form (later).
 - **Last updated:** 11/10/2025
 - **Target completion:** 20/10/2025
